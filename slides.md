@@ -20,7 +20,7 @@
 	- Making sense of the communication data
 	- Service providers who provide access to these channels  	
 
-- Introducing the **Unified Communications Interface
+- Introducing the **Unified Communications Interface**
 
 	- Configurability: **Console**
 	  - Build as a demostration product
