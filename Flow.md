@@ -1,7 +1,5 @@
 # SamagraX | Townhall Update
 ## Feb '21
-===
-
 ### Monthly updates 
 
 1. Launch of Prerna Lakshya app
