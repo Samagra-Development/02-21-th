@@ -1,4 +1,4 @@
-# SamagraX | Townhall Update ## Feb '21
+# SamagraX | Townhall Update: Feb '21
 
 ### Monthly updates 
 
