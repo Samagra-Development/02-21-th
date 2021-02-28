@@ -8,17 +8,8 @@
 
 ### Theme - Communications
 
-- User lifecycle for communication
-	- Govt user: Create, define and manage conversations
-	- End user: gets a notification, chatbot
-	- Conversation Types
-
-- Behind the scenes
-	- Creating a notification / conversation
-	- Managing end user information
-	- Launching a notification / conversation
-	- Making sense of the communication data
-	- Service providers who provide access to these channels  	
+- Use case
+- Behind the scenes	
 
 - Introducing the **Unified Communications Interface**
 
