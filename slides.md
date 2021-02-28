@@ -11,15 +11,14 @@
 - User lifecycle for communication
 	- Govt user: Create, define and manage conversations
 	- End user: gets a notification, chatbot
+	- Conversation Types
 
 - Behind the scenes
 	- Creating a notification / conversation
 	- Managing end user information
 	- Launching a notification / conversation
 	- Making sense of the communication data
-	- Adding value addition services - certificate generator
-	- Service providers who provide access to these channels
-  - Bot categories
+	- Service providers who provide access to these channels  	
 
 - Introducing the **Unified Communications Interface
 
